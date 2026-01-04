@@ -5,5 +5,4 @@
 
   <br/>
 
-### 🌍 Global Traffic
-![Visitor Map](https://visitor-badge.laobi.icu/badge?page_id=HaroldMate1.HaroldMate1&right_color=%23007ec6)
+![Retro Counter](https://www.hitwebcounter.com/counter/counter.php?page=119781&style=0006&nbdigits=7&type=page&initCount=0)
