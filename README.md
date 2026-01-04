@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Moe Counter](https://count.getloli.com/get/@HaroldMate1?theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=HaroldMate1&style=for-the-badge&color=blue)
