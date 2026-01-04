@@ -8,3 +8,5 @@
 <div align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
+
+![Minecraft Counter](https://count.getloli.com/get/@HaroldMate1?theme=minecraft)
