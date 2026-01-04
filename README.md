@@ -5,5 +5,6 @@
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=HaroldMate1&style=flat-square&label=VISITORS&color=3F51B5" alt="Counter" />
+<div align="center">
+  <img src="https://github.com/HaroldMate1/HaroldMate1/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
