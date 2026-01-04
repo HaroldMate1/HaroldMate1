@@ -5,6 +5,5 @@
 
   <br/>
 
-<div align="center">
-  <img src="https://github.com/HaroldMate1/HaroldMate1/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+### 🌍 Global Traffic
+![Visitor Map](https://visitor-badge.laobi.icu/badge?page_id=HaroldMate1.HaroldMate1&right_color=%23007ec6)
