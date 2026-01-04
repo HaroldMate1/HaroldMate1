@@ -1,9 +1,9 @@
-### Hi there 👋
-
 <div align="center">
-  <img src="https://loremflickr.com/800/200/science,technology,lab/all" alt="Random Science Image" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Pharma+Data+Analyst;Analyzing+DNA+Sequences;Welcome+to+my+Lab" alt="Typing SVG" />
+  </a>
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=HaroldMate1&style=flat-square&label=LAB+VISITORS&color=0e75b6" alt="Counter" />
+  <img src="https://komarev.com/ghpvc/?username=HaroldMate1&style=flat-square&label=VISITORS&color=3F51B5" alt="Counter" />
 </div>
