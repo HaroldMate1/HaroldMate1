@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=HaroldMate1&style=for-the-badge&color=blue)
+![Pharma Counter](https://komarev.com/ghpvc/?username=HaroldMate1&style=plastic&label=DOSES+DELIVERED&color=007ec6)
