@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26AHwbGd7B5oK7mpy/giphy.gif" width="200" />
-  
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=HaroldMate1&style=flat-square&label=LAB+DATA&color=0e75b6" alt="Counter" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=HaroldMate1&theme=flat&no-frame=true&margin-w=15" alt="HaroldMate1's Trophies" />
+  </a>
 </div>
